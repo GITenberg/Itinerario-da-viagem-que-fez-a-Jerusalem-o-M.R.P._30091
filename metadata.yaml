@@ -1,0 +1,26 @@
+_repo: Itinerario-da-viagem-que-fez-a-Jerusalem-o-M.R.P._30091
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Guerrero, Francisco
+    alias: Guerreiro, Francisco
+    deathdate: 1599
+    gutenberg_agent_id: '34364'
+    url: http://www.gutenberg.org/2009/agents/34364
+description: ''
+gutenberg_issued: '2009-09-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30091'
+language: pt
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DS'
+- !lcsh 'Palestine -- Description and travel -- Early works to 1800'
+title: Itinerario da viagem, que fez a Jerusalem o M.R.P.
+url: http://www.gutenberg.org/ebooks/30091
